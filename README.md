@@ -1,2 +1,2 @@
-# Razvoj-mobilnih-aplikacija
-RMA 2017/2018
+# Razvoj mobilnih aplikacija
+Spirale 2017/2018
