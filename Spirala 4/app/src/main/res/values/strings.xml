@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Rijad</string>
+    <string name="pretraga">Pretraga</string>
+    <string name="dodaj_kategoriju">Dodaj kategoriju</string>
+    <string name="unesite_kategoriju">Unesite kategoriju</string>
+    <string name="dodaj_knjigu">Dodaj knjigu</string>
+    <string name="ime_autora">Ime autora</string>
+    <string name="na_i_sliku">Nađi sliku</string>
+    <string name="naziv_knjige">Naziv knjige</string>
+    <string name="upi_i">Upiši</string>
+    <string name="poni_ti">Poništi</string>
+    <string name="todo">TODO</string>
+    <string name="povratak">Povratak</string>
+    <string name="autori">Autori</string>
+    <string name="kategorije">Kategorije</string>
+    <string name="dozvola_odbijena">Dozvola odbijena</string>
+    <string name="unesi_autora">Unesite autora!</string>
+    <string name="unesi_naziv">Unesite naziv!</string>
+    <string name="dozvola_prosla">Dozvola data</string>
+    <string name="spinner_prazan">Spinner prazan!</string>
+    <string name="tekst_kategorije_prazan">Molimo unesite kategoriju!</string>
+    <string name="dodaj_knjigu_online">Dodaj knjigu online</string>
+    <string name="unesite_tekst">Unesite tekst..</string>
+    <string name="servis_pokrenut">Servis pokrenut</string>
+    <string name="error">Greška</string>
+    <string name="preporuci">Preporuči</string>
+    <string name="po_alji">Pošalji</string>
+    <string name="kategorija_postoji">Category already exists</string>
+    <string name="kategorija_dodana">Kategorija dodana</string>
+    <string name="kategorija_ne_postoji">Kategorija ne postoji</string>
+    <string name="autor_ne_postoji">Autor ne postoji</string>
+</resources>
